@@ -37,3 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store!/.idea/
 !/spring.iml
+/.idea/
+/spring.iml
