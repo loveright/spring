@@ -9,10 +9,6 @@
         <setting name="logImpl" value="STDOUT_LOGGING"/>
     </settings>
 
-    <mappers>
-        <!--        <mapper resource="com/bjpowernode/dao/StudentDao.xml"/>-->
-        <!-- 将dao包下的所有mapper文件全部扫描 -->
-        <package name="com.by.study.dao"/>
-    </mappers>
+
 
 </configuration>
